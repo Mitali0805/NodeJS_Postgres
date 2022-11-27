@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "chaitanya",
+    "database": "postgres",
+    "host": "database-ch-psql.cxxsoylsaete.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "chaitanya",
+    "database": "postgres",
+    "host": "database-ch-psql.cxxsoylsaete.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "chaitanya",
+    "database": "postgres",
+    "host": "database-ch-psql.cxxsoylsaete.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
